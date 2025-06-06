@@ -1,7 +1,7 @@
 # Hey you 🫵
 There is nothing super special on this page  
 it's is just like other profiles   
-... maybe worse than other profiles  
+... maybe even worse than other profiles  
 
   
 But you still want to see it?  
