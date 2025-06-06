@@ -1,9 +1,9 @@
-## Hey you 🫵
-### There is nothing super special on this page
-#### Just like other profiles... 
-##### ...Maybe worse than other profiles
-###### But you still want to see it?
-# ...Then I kindly thank you
+# Hey you 🫵
+## There is nothing super special on this page
+### just like other profiles... 
+#### ...maybe worse than other profiles
+##### But you still want to see it?
+###### ...Then I kindly thank you 🫡
 
 
 <!--
