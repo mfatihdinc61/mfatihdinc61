@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey you 🫵
+### There is nothing super special on this page
+#### Just like other profiles... 
+##### ...Maybe worse than other profiles
+###### But you still want to see it?
+# ...Then I kindly thank you
+
 
 <!--
 **mfatihdinc61/mfatihdinc61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
