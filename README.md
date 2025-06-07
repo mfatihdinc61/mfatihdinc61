@@ -5,7 +5,7 @@ it's is just like other profiles
 
   
 But you still want to see it?  
-...Then I kindly thank you 🫡
+...Then I kindly welcome you 🫡
 
 
 <!--
