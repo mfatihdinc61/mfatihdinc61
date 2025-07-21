@@ -1,9 +1,9 @@
 # Hey you 🫵
 
-Hope you are having a good time
-Hope you find something useful in my page for your work
+Hope you are having a good time and
+Hope you find something useful in my page for your work  
 
-and I kindly welcome you to my github repos 🫡
+I kindly welcome you to my github repos 🫡
 
 
 <!--
