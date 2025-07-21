@@ -1,11 +1,9 @@
 # Hey you 🫵
-There is nothing super special on this page  
-it's is just like other profiles   
-... maybe even worse than other profiles  
 
-  
-But you still want to see it?  
-...Then I kindly welcome you 🫡
+Hope you are having a good time
+Hope you find something useful in my page for your work
+
+and I kindly welcome you to my github repos 🫡
 
 
 <!--
