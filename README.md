@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ⚙️ I made a desktop app **Nebim Dönüştürücü** for a private company so the images of the products and their namings would be compatible to be uploaded in the ERP software ('Nebim').  
 
-And there are many other projects at this page, open source, hoping will be beneficial for whatever you are buildig or planning to build.
+And there are many other projects at this page, open source, hoping would be beneficial for whatever you are building or planning to build.
 
 
 
