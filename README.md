@@ -22,7 +22,7 @@ A camera assistant that turns an ordinary CCTV feed into something you can talk 
 
 It keeps a plain-language log of what happens, answers questions such as “what happened in the last hour?”, and can watch for conditions you describe in your own words — for example, “tell me if the minibus arrives.” Alerts can include a photo. It is instructed not to identify people or read licence plates.
 
-The public source and a live demo are in [komsu](https://github.com/mfatihdinc61/komsu) and at [komsu.aymam.ai](https://komsu.aymam.ai).
+The public source and a live demo are in [komsu](https://github.com/mfatihdincx/komsu) and at [komsu.aymam.ai](https://komsu.aymam.ai).
 
 ## How the agents are put together
 
@@ -68,11 +68,11 @@ The agents work in Turkish, English, and Russian.
 
 ## Other things I've built
 
-- [komsu](https://github.com/mfatihdinc61/komsu) — the camera agent above, also published as an open-source demo
-- [davud-telegram-bot](https://github.com/mfatihdinc61/davud-telegram-bot) — a small Telegram companion bot (Gemini + Open-Meteo), built for a kids' agent-building lesson
-- [trStr-PyPI-package](https://github.com/mfatihdinc61/trStr-PyPI-package) — a Python package for Turkish character conversion
-- [staticscoach](https://github.com/mfatihdinc61/staticscoach) — study material for engineering statics, with some AI help
-- A few Streamlit apps: [a book list](https://github.com/mfatihdinc61/streamlit_booksaver), a [credit-default](https://github.com/mfatihdinc61/streamlit_defaultPredictor) toy model, and a [lung-cancer](https://github.com/mfatihdinc61/streamlit_cancer) toy model
+- [komsu](https://github.com/mfatihdincx/komsu) — the camera agent above, also published as an open-source demo
+- [davud-telegram-bot](https://github.com/mfatihdincx/davud-telegram-bot) — a small Telegram companion bot (Gemini + Open-Meteo), built for a kids' agent-building lesson
+- [trStr-PyPI-package](https://github.com/mfatihdincx/trStr-PyPI-package) — a Python package for Turkish character conversion
+- [staticscoach](https://github.com/mfatihdincx/staticscoach) — study material for engineering statics, with some AI help
+- A few Streamlit apps: [a book list](https://github.com/mfatihdincx/streamlit_booksaver), a [credit-default](https://github.com/mfatihdincx/streamlit_defaultPredictor) toy model, and a [lung-cancer](https://github.com/mfatihdincx/streamlit_cancer) toy model
 
 ## Contact
 
